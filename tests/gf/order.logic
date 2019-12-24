@@ -1,0 +1,5 @@
+import galois_field, Z/89Z;
+forall x : E, ((x = -1) \/ (there exists y : E, y > x));
+
+import galois_field, Z/11Z;
+forall x : E, (x^4 + x^2 + 1 > 0);

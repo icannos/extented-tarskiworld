@@ -1,0 +1,8 @@
+import galois_field;
+forall x : E, (x = 0 \/ (there exists y : E, (x * y = 1)));
+forall x : E, (there exists y : E, x + y = 0);
+there exists x : E, (forall y : E, (x * y = 0));
+there exists x : E, (forall y : E, (x * y = y));
+
+import galois_field, Z/8Z;
+forall x : E, (x = 0 \/ (there exists y : E, (x * y = 1)));

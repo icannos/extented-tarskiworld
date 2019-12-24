@@ -1,0 +1,2 @@
+forall x, (there exists y, (x \/ y));
+not (forall x, (there exists y, (x /\ y)));

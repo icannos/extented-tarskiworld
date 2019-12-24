@@ -1,0 +1,17 @@
+import galois_field, Z/97Z;
+there exists x : E, (x^2 + x + 1 = 0);
+
+import galois_field, Z/89Z;
+there exists x : E, (x^2 + x + 1 = 0);
+
+import galois_field, Z/5Z;
+there exists x : E, (x^2 + x + 1 = 0);
+
+import galois_field, Z/7Z;
+there exists x : E, (x^2 + x + 1 = 0);
+
+import galois_field, Z/11Z;
+there exists x : E, (x^2 + x + 1 = 0);
+
+import galois_field, Z/13Z;
+there exists x : E, (x^2 + x + 1 = 0);

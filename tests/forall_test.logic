@@ -1,0 +1,3 @@
+import bool_model;
+forall x, (x \/ not x);
+forall x, (forall y, ((x /\ y) \/ (not x \/ not y)));

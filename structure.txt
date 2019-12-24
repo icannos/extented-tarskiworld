@@ -1,0 +1,42 @@
+.
+├── logicEvaluator.py
+├── logic.g4
+├── main.py
+├── models
+│   ├── abstractInterval.py
+│   ├── abstract.py
+│   ├── base_model.py
+│   ├── galois_field.py
+│   └── __pycache__
+│       ├── base_model.cpython-37.pyc
+│       └── galois_field.cpython-37.pyc
+├── parsers
+│   ├── logic.interp
+│   ├── logicLexer.interp
+│   ├── logicLexer.py
+│   ├── logicLexer.tokens
+│   ├── logicParser.py
+│   ├── logic.tokens
+│   ├── logicVisitor.py
+│   └── __pycache__
+│       ├── logicLexer.cpython-37.pyc
+│       ├── logicParser.cpython-37.pyc
+│       └── logicVisitor.cpython-37.pyc
+├── __pycache__
+│   └── logicEvaluator.cpython-37.pyc
+├── Readme.md
+├── requierements.txt
+├── structure.txt
+└── tests
+    ├── and_test.logic
+    ├── exists_test.logic
+    ├── forallexist.logic
+    ├── forall_test.logic
+    ├── gf
+    │   ├── factorization.logic
+    │   ├── inverse.logic
+    │   ├── order.logic
+    │   └── simple_roots.logic
+    └── or.logic
+
+7 directories, 32 files
