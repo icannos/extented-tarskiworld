@@ -5,6 +5,8 @@ since it is undecidable otherwise. We focus on `bool` and `Galois Fields`.
 
 ### Requierements
 
+This project only supports `Python 3.x`. It has been tested and developped with `python 3.7`.
+
 Requiered librairies are listed in `requierments.txt` and can be installed by using `pip install -r requierements.txt`.
 The grammar parser is based on antlr4. I provide the generated code but you may want to recompile the grammar. In that 
 case you should install `antlr4`. 
